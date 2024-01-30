@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Marcos Roach",
+      "empresa": "MSR",
+      "email": "roachmarcos@hotmail.com",
+      "telefono": "3534236300",
+      "notas": "Hola",
+      "id": "4275"
+    },
+    {
+      "nombre": "Paula Bomone",
+      "empresa": "Thor",
+      "email": "pbomone@thor-sa.com",
+      "telefono": "56896",
+      "notas": "Hola",
+      "id": "ef06"
+    },
+    {
+      "nombre": "Rodo Roach",
+      "empresa": "Marcos",
+      "email": "rodo@gmail.com",
+      "telefono": "45896",
+      "notas": "Loco de Papa",
+      "id": "5214"
+    }
+  ]
+}
